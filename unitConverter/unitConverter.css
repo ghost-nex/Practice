@@ -1,0 +1,26 @@
+body {
+    background-color: #1F2937;
+    text-align: center;
+}
+
+main {
+    
+    background: linear-gradient(246.26deg, #585DFE 0%, #fb3796) 100%;
+    width: 560px;
+    height: 260px;
+    color: white;
+    margin-left: 390px;
+
+    
+    
+}
+
+#number-el {
+    color: white;
+    font-size: 80px;
+}
+
+results {
+    color: white;
+    font-size: 20px;
+}
