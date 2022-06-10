@@ -17,10 +17,13 @@ main {
 }
 
 #number-el {
-    background-color: black;
-    width: 200px;
-    color: white;
-    font-size: 80px;
+    background-color: #B7B5B1;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    color: black;
+    font-size: 50px;
 }
 
 results {
