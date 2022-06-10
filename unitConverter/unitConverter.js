@@ -1,4 +1,4 @@
-let number = windows.prompt("Input number:")
+let number = window.prompt("Input number:")
 let numberEl = document.getElementById("number-el")
 numberEl.textContent = number
 let lengthEl = document.getElementById("length-el")
